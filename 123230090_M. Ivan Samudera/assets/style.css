@@ -1,0 +1,87 @@
+html {
+    margin: 0px;
+    height: 100%;
+    width: 100%;
+ }
+ 
+ body {
+    background-color: #212529 !important;
+    margin: 0px;
+    min-height: 100%;
+    width: 100%;
+ }
+
+.tengah{
+   margin-top: 100px;
+}
+
+.tombol{
+   margin-top: 105px;   
+   width: 1020px;
+   height: 40px;
+}
+
+.tombol-login{
+   margin-top: 50px;   
+   width: 375px;
+   height: 40px; 
+}
+
+.tombol-2{
+   margin-top: 105px;   
+   width: 500px;
+   height: 40px;
+}
+
+.garis{
+   width: 50px;
+}
+
+hr{
+   color: white;
+   width: 450px;
+   margin: auto;
+}
+
+input::placeholder{
+   color: grey !important;
+   opacity: 1;
+}
+
+input{
+   color: aliceblue !important;
+}
+
+.inputlab{
+   width: 450px !important;
+}
+
+.isilab{
+   margin-top: 75px;
+}
+
+.tabelab{
+   margin-left: 150px;
+}
+
+.tabelab2{
+   margin-right:150px;
+}
+
+.inputwaktu{
+   width: 175px !important;
+}
+
+.tabeljadwal{
+   margin-left: 100px;
+}
+
+.inputmk{
+   width: 350px !important;
+}
+
+.tabeljadwal{
+   margin-top: 75px;
+   padding: auto;
+}
+
